@@ -1,5 +1,3 @@
-# perfect_python_course_intro.py
-
 """
 Welcome to the Perfect Python Course!
 
